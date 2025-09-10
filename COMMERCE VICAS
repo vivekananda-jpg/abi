@@ -1,0 +1,15 @@
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("KAUSIKA ");
+    System.out.println("II YEAR ");
+    System.out.println("COMMERCE ");
+   
+   System.out.println("VICAS");
+    System.out.println("P.ELUMALAI"); 
+   System.out.println("E.SHIVANANDHI");
+   System.out.println("9345991917");
+   System.out.println("8610105115");
+   System.out.println("SALEM MAIN ROAD");System.out.println("EB OFFICE NEAR");
+   System.out.println("636451");
+  }
+}
